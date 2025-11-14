@@ -1,4 +1,4 @@
-package com.willlee.algorithms.hash;
+package com.willlee.algorithms;
 
 import java.util.HashMap;
 import java.util.Map;

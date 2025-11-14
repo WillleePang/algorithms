@@ -1,4 +1,4 @@
-package com.willlee.algorithms.doubleptr;
+package com.willlee.algorithms;
 
 public class _0283_MoveZeros {
     /*

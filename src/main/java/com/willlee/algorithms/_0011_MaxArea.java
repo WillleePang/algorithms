@@ -1,4 +1,4 @@
-package com.willlee.algorithms.doubleptr;
+package com.willlee.algorithms;
 
 /*
  * 两边往中间移动，寻找更大的面积，
