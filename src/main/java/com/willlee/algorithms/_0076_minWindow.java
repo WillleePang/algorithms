@@ -1,4 +1,6 @@
-public class __0076_minWindow {
+package com.willlee.algorithms;
+
+public class _0076_minWindow {
     public String minWindow(String s, String t) {
         if (s == null || s.length() == 0 || t == null || t.length() == 0 || s.length() < t.length()) {
             return "";
